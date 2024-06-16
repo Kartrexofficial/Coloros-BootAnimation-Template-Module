@@ -1,5 +1,5 @@
 # Introduction 
-This an Custom Boot Animation Template for Coloros and Its Copycats
+This is an Custom Boot Animation Magisk Template Module for Coloros and Its Copycats
 
 ```
 • Coloros 12,13 & 14
@@ -8,7 +8,9 @@ This an Custom Boot Animation Template for Coloros and Its Copycats
 ```
 # Tools
 • MT Manager (Recommended)
+
 • Template Module 
+
 • BOOT ANIMATION PNG 
 (You Can Use Cool Bootanimation Bot and Use those Converted Images)
 
@@ -35,9 +37,10 @@ g (width) (Height) 0 10 60
 p 1 0 part0
 ```
 • Replace <mark>width</mark> with your boot png value 
+
 • Replace <mark>height</mark> with your boot png value 
 
-The Value '60' is the Fps,You can choose 30,60,90 & 120 according to your preference.
+• The Value <mark>60</mark> is the Fps,You can choose 30,60,90 & 120 according to your preference.
 
 8. Then Save the desc.txt and Save the Bootanimation.zip..Go Back
 9. Then Go to Module.prop
@@ -65,3 +68,11 @@ description=Compatible for ColorOs 12,13 & 14
 # Video Tutorial
 
 I have Uploaded a Video Tutorial On YouTube,If you Watch You Can Watch [Tap Here](https://youtu.be/OpK4imhxGMI?si=kDt6HtaDqHg4w40P)
+
+# Safety 
+We Always Recommend To Use Anti-Bootloop Modules 
+
+• [AshLooper](https://github.com/RipperHybrid/AshLooper)
+• [ABootLoop](https://github.com/Magisk-Modules-Alt-Repo/abootloop)
+
+
