@@ -19,8 +19,8 @@ g (width) (Height) 0 10 60
 
 p 1 0 part0
 ```
-• Replace (width) with your boot png value 
-• Replace (height) wirh your boot png value 
+• Replace <mark>width</mark> with your boot png value 
+• Replace <mark>height</mark> with your boot png value 
 
 The Value '60' is the Fps,You can choose 30,60,90 & 120 according to your preference.
 
@@ -36,8 +36,14 @@ description=Compatible for ColorOs 12,13 & 14
 ```
 
 • <mark>ID</mark> - You Can Change those but i wont recommend
-• <mark>Name</mark> - You Can Chnage according to your Boot Animation theme
-• <mark>Version</mark> - You Can Change those but i wont recommend
-• <mark>Version & VersionCode</mark> - 
 
+• <mark>Name</mark> - You Can Chnage according to your Boot Animation theme
+
+• <mark>Version</mark> - You Can Change those but i wont recommend
+
+• <mark>Version & VersionCode</mark> - No Need to Change
+
+• <mark>Author & Discription</mark> - As Your Choice 
+
+10. Save Those and Done You have Got Your Boot Animation Magisk Module..
 
