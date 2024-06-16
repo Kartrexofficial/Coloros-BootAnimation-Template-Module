@@ -1,4 +1,19 @@
-# How To Use 
+# Introduction 
+This an Custom Boot Animation Template for Coloros and Its Copycats
+
+```
+• Coloros 12,13 & 14
+• RealmeUI 3,4 & 5
+• OxygenOS 12,13 & 14
+```
+# Tools
+• MT Manager (Recommended)
+• Template Module 
+• BOOT ANIMATION PNG 
+(You Can Use Cool Bootanimation Bot and Use those Converted Images)
+
+
+# How To Use / Turorial 
 
 1. Download the Template from the Relases Page and Save it Somewhere
 2. You need to Convert Boot Video into Images (If you have images Already then its ok ,If you dont have then use any Converter
@@ -47,3 +62,6 @@ description=Compatible for ColorOs 12,13 & 14
 
 10. Save Those and Done You have Got Your Boot Animation Magisk Module..
 
+# Video Tutorial
+
+I have Uploaded a Video Tutorial On YouTube,If you Watch You Can Watch [Tap Here](https://youtu.be/OpK4imhxGMI?si=kDt6HtaDqHg4w40P)
